@@ -1,6 +1,5 @@
 const Student = require("../Modal/StudentModal");
 
-//Arul
 
 //ahilan
 
