@@ -1,5 +1,6 @@
 const Student = require("../Modal/StudentModal");
 
+
 const createStudent = async (req, res) => {
   try {
     let data = req.body;

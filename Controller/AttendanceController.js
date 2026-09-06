@@ -1,5 +1,6 @@
 const Attendance = require("../Modal/AttendanceModal");
 
+
 const createAttendance = async (req,res)=>{
     try{
         let data = req.body;
